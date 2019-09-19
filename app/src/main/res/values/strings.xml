@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CUNYEats</string>
+
+    <string-array name="campusArray">
+
+        <item>Baruch College</item>
+        <item>Brooklyn College</item>
+        <item>College of Staten Island</item>
+        <item>Hunter College</item>
+        <item>John jay of Criminal Justice</item>
+        <item>Lehman College</item>
+        <item>Medgar Evers College</item>
+        <item>New York City of Technology</item>
+        <item>Queens College</item>
+        <item>The City College of New York</item>
+        <item>York College</item>
+
+    </string-array>
+
+
+</resources>
